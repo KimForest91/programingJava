@@ -110,7 +110,7 @@ class Food {
 
 
 @Getter
-public class BrandProduct {
+class BrandProduct {
     private long price;
     private long originCost;        // 원가
 
